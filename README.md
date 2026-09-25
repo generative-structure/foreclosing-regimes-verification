@@ -1,4 +1,4 @@
-# Replication materials: Foreclosing Regimes: Identification, Comparison, and Certification Under Selective Verification
+# Replication materials: Ranked but Not Graded: What Selective Verification Establishes About Deployed Detectors
 
 This repository holds the simulation code, the frozen simulation outputs, and the
 arithmetic verification scripts behind the article named above. Every simulation figure
